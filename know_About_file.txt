@@ -1,3 +1,4 @@
 1. Tensors in Python
 2. PyTorch Autograd
 3. Pytorch Training Pipeline
+4. Creating NN from scratch
