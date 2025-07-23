@@ -6,3 +6,4 @@
 6. Creating NN(nn-fashion-mnist)
 7. NN training using gpu
 8. ann-fashion-mnist-pytorch-gpu-optimized
+9. Hyperparameter_tunning-pytorch-gpu-optimized-optuna
