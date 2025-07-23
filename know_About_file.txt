@@ -5,3 +5,4 @@
 5. Dataset and Data Loader
 6. Creating NN(nn-fashion-mnist)
 7. NN training using gpu
+8. ann-fashion-mnist-pytorch-gpu-optimized
