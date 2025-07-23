@@ -3,3 +3,4 @@
 3. Pytorch Training Pipeline
 4. Creating NN from scratch
 5. Dataset and Data Loader
+6. Creating NN(nn-fashion-mnist)
